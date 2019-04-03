@@ -12,7 +12,7 @@ public class Main {
             list.add(pass.generate());
         }
         for (String s:list){
-            System.out.println(s);
+            System.out.println("Example password:"+s);
         }
     }
 }
